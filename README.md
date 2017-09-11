@@ -62,4 +62,7 @@ Socket.io is used in both client and server side
 
 #### References
 [David Walsh](https://davidwalsh.name/websocket)
+
 [socket.io](https://socket.io/)
+
+[Youtube](https://www.youtube.com/watch?v=UwS3wJoi7fY&t=2s)
